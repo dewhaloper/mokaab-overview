@@ -1,12 +1,12 @@
 <div align="center">
 
-![مکعب؛ دارایی ارزشمند، تجربه‌ای یکپارچه](docs/assets/public-overview/cover.png?v=readable-20261012)
+![مکعب؛ دارایی ارزشمند، تجربه‌ای یکپارچه](docs/assets/public-overview/readable-v2/cover.png)
 
 [**وب‌سایت مکعب**](https://mokaab.gold) · [**پروژهٔ خصوصی**](https://github.com/dewhaloper/mokaab) · [**نقشهٔ راه — اعضای تیم**](https://github.com/dewhaloper/mokaab/tree/main/docs/planning) · [**راهنمای فنی — اعضای تیم**](https://github.com/dewhaloper/mokaab/blob/main/docs/README-TECHNICAL.md)
 
 </div>
 
-[![ورود به پروژهٔ خصوصی مکعب؛ ویژهٔ اعضای دارای دسترسی](docs/assets/public-overview/private-access.png?v=readable-20261012)](https://github.com/dewhaloper/mokaab)
+[![ورود به پروژهٔ خصوصی مکعب؛ ویژهٔ اعضای دارای دسترسی](docs/assets/public-overview/readable-v2/private-access.png)](https://github.com/dewhaloper/mokaab)
 
 > برای ورود به پروژهٔ خصوصی، با حساب GitHub دارای دسترسی وارد شوید. این لینک مجوز تازه‌ای ایجاد نمی‌کند؛ برای حساب فاقد دسترسی ممکن است صفحهٔ ۴۰۴ نمایش داده شود.
 
@@ -18,7 +18,7 @@
 
 پشت تجربهٔ سادهٔ مشتری، مجموعه‌ای از رابط‌ها، سرویس‌ها، مدل‌های داده و مسیرهای آزمون قرار دارد. اندازه‌گیری سورس ثبت‌شده، **۱۴۱٬۱۰۰ خط غیرخالی در ۱٬۱۸۲ فایل** را نشان می‌دهد؛ **۲۷۲ فایل مرتبط با آزمون** نیز در همین مجموعه قرار دارند.
 
-![مقیاس مهندسی مکعب: ۱۴۱٬۱۰۰ خط غیرخالی، ۱٬۱۸۲ فایل سورس و ۲۷۲ فایل مرتبط با آزمون؛ ترکیب فناوری‌ها](docs/assets/public-overview/engineering-scale.png?v=readable-20261012)
+![مقیاس مهندسی مکعب: ۱۴۱٬۱۰۰ خط غیرخالی، ۱٬۱۸۲ فایل سورس و ۲۷۲ فایل مرتبط با آزمون؛ ترکیب فناوری‌ها](docs/assets/public-overview/readable-v2/engineering-scale.png)
 
 <details>
 <summary><strong>آمار به‌صورت متن و جدول</strong></summary>
@@ -46,7 +46,7 @@
 
 ## فناوری‌هایی که این تجربه را می‌سازند
 
-![نقشهٔ فناوری‌های مکعب در شش لایه: رابط کاربر، سرویس‌های محصول، حسابداری، داده، ساخت و تحویل، پردازش فایل](docs/assets/public-overview/technology-stack.png?v=readable-20261012)
+![نقشهٔ فناوری‌های مکعب در شش لایه: رابط کاربر، سرویس‌های محصول، حسابداری، داده، ساخت و تحویل، پردازش فایل](docs/assets/public-overview/readable-v2/technology-stack.png)
 
 <details>
 <summary><strong>فهرست متنی فناوری‌ها</strong></summary>
@@ -66,13 +66,13 @@
 
 ## دامنهٔ برنامهٔ اجرایی
 
-![دامنهٔ برنامهٔ مکعب: ۱۰ محصول، یک هستهٔ مشترک، ۲۹۹ صفحهٔ برنامهٔ اجرایی، ۱۶۱ نقطهٔ تحویل و ۶۶ نسخهٔ مادر برنامه‌ریزی‌شده](docs/assets/public-overview/execution-scale.png?v=readable-20261012)
+![دامنهٔ برنامهٔ مکعب: ۱۰ محصول، یک هستهٔ مشترک، ۲۹۹ صفحهٔ برنامهٔ اجرایی، ۱۶۱ نقطهٔ تحویل و ۶۶ نسخهٔ مادر برنامه‌ریزی‌شده](docs/assets/public-overview/readable-v2/execution-scale.png)
 
 نقشهٔ اکوسیستم **۱۰ محصول و یک هستهٔ مشترک** را پوشش می‌دهد. برنامهٔ اجرایی ثبت‌شده، **۲۹۹ صفحه، ۱۶۱ نقطهٔ تحویل و ۶۶ نسخهٔ مادر برنامه‌ریزی‌شده** دارد. این اعداد دامنهٔ برنامه را توصیف می‌کنند؛ تعداد نسخه‌های منتشرشده یا قابلیت‌های تحویل‌گرفته‌شده نیستند. [جزئیات برنامه برای اعضای تیم](https://github.com/dewhaloper/mokaab/tree/main/docs/planning).
 
 ## نقشهٔ محصولات
 
-![نقشهٔ ده محصول مکعب: تجربهٔ مشتری، مدیریت و بازار، توسعهٔ آینده و هستهٔ مشترک](docs/assets/public-overview/ecosystem.png?v=readable-20261012)
+![نقشهٔ ده محصول مکعب: تجربهٔ مشتری، مدیریت و بازار، توسعهٔ آینده و هستهٔ مشترک](docs/assets/public-overview/readable-v2/ecosystem.png)
 
 <details>
 <summary><strong>فهرست متنی محصولات</strong></summary>
@@ -90,7 +90,7 @@
 
 ## ساختار پروژه
 
-![چهار لایهٔ پروژه: محصول و اجزای مشترک؛ دانش و تصمیم‌ها؛ کیفیت و ابزارها؛ عملیات و سوابق](docs/assets/public-overview/structure.png?v=readable-20261012)
+![چهار لایهٔ پروژه: محصول و اجزای مشترک؛ دانش و تصمیم‌ها؛ کیفیت و ابزارها؛ عملیات و سوابق](docs/assets/public-overview/readable-v2/structure.png)
 
 <details>
 <summary><strong>مشاهدهٔ ساختار پوشه‌ها و نقش هر بخش</strong></summary>
