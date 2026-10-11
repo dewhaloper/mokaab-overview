@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/cover.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/cover.png">
   <img alt="مکعب؛ دارایی ارزشمند، تجربه‌ای یکپارچه" src="docs/assets/public-overview/readable-v2/cover.png">
 </picture>
 
@@ -11,7 +11,7 @@
 
 <a href="https://github.com/dewhaloper/mokaab">
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/private-access.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/private-access.png">
   <img alt="ورود به پروژهٔ خصوصی مکعب؛ ویژهٔ اعضای دارای دسترسی" src="docs/assets/public-overview/readable-v2/private-access.png">
 </picture>
 </a>
@@ -27,7 +27,7 @@
 پشت تجربهٔ سادهٔ مشتری، مجموعه‌ای از رابط‌ها، سرویس‌ها، مدل‌های داده و مسیرهای آزمون قرار دارد. اندازه‌گیری سورس ثبت‌شده، **۱۴۱٬۱۰۰ خط غیرخالی در ۱٬۱۸۲ فایل** را نشان می‌دهد؛ **۲۷۲ فایل مرتبط با آزمون** نیز در همین مجموعه قرار دارند.
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/engineering-scale.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/engineering-scale.png">
   <img alt="مقیاس مهندسی مکعب: ۱۴۱٬۱۰۰ خط غیرخالی، ۱٬۱۸۲ فایل سورس و ۲۷۲ فایل مرتبط با آزمون؛ ترکیب فناوری‌ها" src="docs/assets/public-overview/readable-v2/engineering-scale.png">
 </picture>
 
@@ -58,7 +58,7 @@
 ## فناوری‌هایی که این تجربه را می‌سازند
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/technology-stack.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/technology-stack.png">
   <img alt="نقشهٔ فناوری‌های مکعب در شش لایه: رابط کاربر، سرویس‌های محصول، حسابداری، داده، ساخت و تحویل، پردازش فایل" src="docs/assets/public-overview/readable-v2/technology-stack.png">
 </picture>
 
@@ -81,7 +81,7 @@
 ## دامنهٔ برنامهٔ اجرایی
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/execution-scale.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/execution-scale.png">
   <img alt="دامنهٔ برنامهٔ مکعب: ۱۰ محصول، یک هستهٔ مشترک، ۲۹۹ صفحهٔ برنامهٔ اجرایی، ۱۶۱ نقطهٔ تحویل و ۶۶ نسخهٔ مادر برنامه‌ریزی‌شده" src="docs/assets/public-overview/readable-v2/execution-scale.png">
 </picture>
 
@@ -90,7 +90,7 @@
 ## نقشهٔ محصولات
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/ecosystem.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/ecosystem.png">
   <img alt="نقشهٔ ده محصول مکعب: تجربهٔ مشتری، مدیریت و بازار، توسعهٔ آینده و هستهٔ مشترک" src="docs/assets/public-overview/readable-v2/ecosystem.png">
 </picture>
 
@@ -111,25 +111,22 @@
 ## ساختار پروژه
 
 <picture>
-  <source media="(min-width: 768px)" srcset="docs/assets/public-overview/desktop-v3/structure.png">
+  <source media="(min-width: 1200px)" srcset="docs/assets/public-overview/desktop-v3/structure.png">
   <img alt="چهار لایهٔ پروژه: محصول و اجزای مشترک؛ دانش و تصمیم‌ها؛ کیفیت و ابزارها؛ عملیات و سوابق" src="docs/assets/public-overview/readable-v2/structure.png">
 </picture>
 
 <details>
 <summary><strong>مشاهدهٔ ساختار پوشه‌ها و نقش هر بخش</strong></summary>
 
-```text
-mokaab/
-├── apps/          برنامه‌های مشتری و تیم کسب‌وکار
-├── packages/      حسابداری و بسته‌های مستقل
-├── docs/          معماری، طراحی، وضعیت و نقشهٔ راه
-├── qa/            آزمون و شواهد پذیرش
-├── tools/         ابزارهای توسعه و اعتبارسنجی
-├── .github/       گردش کار مخزن
-├── ops/           راهنمای عملیات و انتشار
-├── backups/       فهرست و رسید پشتیبان‌ها
-└── archive/       سوابق و نسخه‌های پیشین
-```
+- **`apps/`** — برنامه‌های مشتری و تیم کسب‌وکار
+- **`packages/`** — حسابداری و بسته‌های مستقل
+- **`docs/`** — معماری، طراحی، وضعیت و نقشهٔ راه
+- **`qa/`** — آزمون و شواهد پذیرش
+- **`tools/`** — ابزارهای توسعه و اعتبارسنجی
+- **`.github/`** — گردش کار مخزن
+- **`ops/`** — راهنمای عملیات و انتشار
+- **`backups/`** — فهرست و رسید پشتیبان‌ها
+- **`archive/`** — سوابق و نسخه‌های پیشین
 
 این ساختار متعلق به مخزن خصوصی است. مخزن عمومی فقط معرفی و تصاویر همین صفحه را نگهداری می‌کند.
 
